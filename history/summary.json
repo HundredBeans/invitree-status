@@ -4,10 +4,10 @@
     "url": "https://invitree.id",
     "icon": "https://favicons.githubusercontent.com/invitree.id",
     "slug": "digital-invitation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1427,
@@ -15,16 +15,18 @@
     "timeWeek": 2339,
     "timeMonth": 1427,
     "timeYear": 1427,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-13": 1
+    }
   },
   {
     "name": "Dashboard",
     "url": "https://dashboard.invitree.id",
     "icon": "https://favicons.githubusercontent.com/dashboard.invitree.id",
     "slug": "dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 107,
     "timeMonth": 255,
     "timeYear": 255,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-13": 0
+    }
   },
   {
     "name": "API",
