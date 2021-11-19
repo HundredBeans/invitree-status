@@ -10,11 +10,11 @@
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
-    "time": 1308,
-    "timeDay": 3336,
-    "timeWeek": 1425,
-    "timeMonth": 1308,
-    "timeYear": 1308,
+    "time": 1374,
+    "timeDay": 2703,
+    "timeWeek": 1446,
+    "timeMonth": 1374,
+    "timeYear": 1374,
     "dailyMinutesDown": {
       "2021-11-13": 21
     }
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/dashboard.invitree.id",
     "slug": "dashboard",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 208,
-    "timeDay": 133,
-    "timeWeek": 120,
-    "timeMonth": 208,
-    "timeYear": 208,
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 204,
+    "timeDay": 113,
+    "timeWeek": 117,
+    "timeMonth": 204,
+    "timeYear": 204,
     "dailyMinutesDown": {
       "2021-11-13": 21
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 416,
-    "timeDay": 311,
+    "time": 411,
+    "timeDay": 317,
     "timeWeek": 301,
-    "timeMonth": 416,
-    "timeYear": 416,
+    "timeMonth": 411,
+    "timeYear": 411,
     "dailyMinutesDown": {}
   }
 ]
