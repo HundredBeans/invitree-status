@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/invitree.id",
     "slug": "digital-invitation",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 1430,
-    "timeDay": 258,
-    "timeWeek": 1894,
-    "timeMonth": 1430,
-    "timeYear": 1430,
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 1524,
+    "timeDay": 3875,
+    "timeWeek": 2401,
+    "timeMonth": 1524,
+    "timeYear": 1524,
     "dailyMinutesDown": {
       "2021-11-13": 21
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 186,
-    "timeDay": 79,
-    "timeWeek": 109,
-    "timeMonth": 186,
-    "timeYear": 186,
+    "time": 191,
+    "timeDay": 305,
+    "timeWeek": 133,
+    "timeMonth": 191,
+    "timeYear": 191,
     "dailyMinutesDown": {
       "2021-11-13": 21
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 384,
-    "timeDay": 275,
-    "timeWeek": 299,
-    "timeMonth": 384,
-    "timeYear": 384,
+    "time": 380,
+    "timeDay": 292,
+    "timeWeek": 287,
+    "timeMonth": 380,
+    "timeYear": 380,
     "dailyMinutesDown": {}
   }
 ]
