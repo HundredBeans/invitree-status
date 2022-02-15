@@ -45,17 +45,19 @@
     "url": "https://asia-southeast2-invitree-id.cloudfunctions.net/api/ping",
     "icon": "https://favicons.githubusercontent.com/asia-southeast2-invitree-id.cloudfunctions.net",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 344,
-    "timeDay": 287,
-    "timeWeek": 280,
-    "timeMonth": 325,
-    "timeYear": 344,
-    "dailyMinutesDown": {}
+    "time": 440,
+    "timeDay": 5439,
+    "timeWeek": 1569,
+    "timeMonth": 646,
+    "timeYear": 440,
+    "dailyMinutesDown": {
+      "2022-02-15": 0
+    }
   }
 ]
