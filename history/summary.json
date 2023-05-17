@@ -10,12 +10,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1309,
+    "time": 1314,
     "timeDay": 1263,
     "timeWeek": 2232,
     "timeMonth": 3214,
-    "timeYear": 1311,
-    "dailyMinutesDown": {}
+    "timeYear": 1317,
+    "dailyMinutesDown": {
+      "2023-05-17": 0
+    }
   },
   {
     "name": "Dashboard",
