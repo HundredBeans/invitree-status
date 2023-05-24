@@ -6,18 +6,16 @@
     "slug": "digital-invitation",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1320,
-    "timeDay": 4072,
-    "timeWeek": 3135,
-    "timeMonth": 3107,
-    "timeYear": 1369,
-    "dailyMinutesDown": {
-      "2023-05-23": 7
-    }
+    "time": 1318,
+    "timeDay": 2835,
+    "timeWeek": 3206,
+    "timeMonth": 3014,
+    "timeYear": 1373,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Dashboard",
@@ -30,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 152,
-    "timeDay": 165,
-    "timeWeek": 134,
-    "timeMonth": 170,
+    "time": 151,
+    "timeDay": 66,
+    "timeWeek": 122,
+    "timeMonth": 164,
     "timeYear": 159,
     "dailyMinutesDown": {}
   },
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 533,
-    "timeDay": 250,
-    "timeWeek": 590,
-    "timeMonth": 565,
+    "timeDay": 294,
+    "timeWeek": 593,
+    "timeMonth": 530,
     "timeYear": 559,
     "dailyMinutesDown": {}
   }
