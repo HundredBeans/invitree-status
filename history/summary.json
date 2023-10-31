@@ -4,19 +4,19 @@
     "url": "https://invitree.id",
     "icon": "https://icons.duckduckgo.com/ip3/invitree.id.ico",
     "slug": "digital-invitation",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1953,
-    "timeDay": 2683,
-    "timeWeek": 1817,
-    "timeMonth": 2079,
-    "timeYear": 2444,
+    "timeDay": 1735,
+    "timeWeek": 1688,
+    "timeMonth": 2039,
+    "timeYear": 2440,
     "dailyMinutesDown": {
-      "2023-10-31": 0
+      "2023-10-31": 8
     }
   },
   {
