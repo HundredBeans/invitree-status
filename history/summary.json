@@ -6,18 +6,16 @@
     "slug": "digital-invitation",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1953,
-    "timeDay": 1735,
-    "timeWeek": 1688,
-    "timeMonth": 2039,
-    "timeYear": 2440,
-    "dailyMinutesDown": {
-      "2023-10-31": 8
-    }
+    "time": 1959,
+    "timeDay": 1872,
+    "timeWeek": 1722,
+    "timeMonth": 2044,
+    "timeYear": 2446,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Dashboard",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 150,
-    "timeDay": 60,
-    "timeWeek": 82,
-    "timeMonth": 110,
+    "timeDay": 258,
+    "timeWeek": 108,
+    "timeMonth": 116,
     "timeYear": 137,
     "dailyMinutesDown": {}
   },
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 532,
-    "timeDay": 246,
-    "timeWeek": 441,
-    "timeMonth": 572,
-    "timeYear": 500,
+    "time": 534,
+    "timeDay": 1395,
+    "timeWeek": 424,
+    "timeMonth": 604,
+    "timeYear": 503,
     "dailyMinutesDown": {
       "2023-10-23": 19
     }
