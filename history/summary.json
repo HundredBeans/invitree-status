@@ -4,39 +4,37 @@
     "url": "https://invitree.id",
     "icon": "https://icons.duckduckgo.com/ip3/invitree.id.ico",
     "slug": "digital-invitation",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2185,
-    "timeDay": 2067,
-    "timeWeek": 2346,
-    "timeMonth": 2269,
-    "timeYear": 2736,
-    "dailyMinutesDown": {
-      "2024-01-17": 7
-    }
+    "time": 2189,
+    "timeDay": 2314,
+    "timeWeek": 2397,
+    "timeMonth": 2285,
+    "timeYear": 2742,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Dashboard",
     "url": "https://dashboard.invitree.id",
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.invitree.id.ico",
     "slug": "dashboard",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.57%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 145,
-    "timeDay": 152,
-    "timeWeek": 139,
-    "timeMonth": 112,
+    "timeDay": 132,
+    "timeWeek": 134,
+    "timeMonth": 111,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2024-01-17": 0
+      "2024-01-17": 21
     }
   },
   {
