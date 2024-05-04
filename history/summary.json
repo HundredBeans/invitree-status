@@ -42,18 +42,19 @@
     "url": "https://asia-southeast2-invitree-id.cloudfunctions.net/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/asia-southeast2-invitree-id.cloudfunctions.net.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 700,
-    "timeDay": 1216,
-    "timeWeek": 570,
-    "timeMonth": 1126,
-    "timeYear": 766,
+    "timeDay": 738,
+    "timeWeek": 531,
+    "timeMonth": 1098,
+    "timeYear": 765,
     "dailyMinutesDown": {
+      "2024-05-04": 0,
       "2023-10-23": 19
     }
   }
