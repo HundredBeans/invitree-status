@@ -4,19 +4,19 @@
     "url": "https://invitree.id",
     "icon": "https://icons.duckduckgo.com/ip3/invitree.id.ico",
     "slug": "digital-invitation",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 2147,
-    "timeDay": 1101,
-    "timeWeek": 2056,
-    "timeMonth": 2235,
-    "timeYear": 2231,
+    "time": 2145,
+    "timeDay": 1155,
+    "timeWeek": 1950,
+    "timeMonth": 2205,
+    "timeYear": 2228,
     "dailyMinutesDown": {
-      "2025-08-02": 0
+      "2025-08-02": 16
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://dashboard.invitree.id",
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.invitree.id.ico",
     "slug": "dashboard",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 153,
-    "timeDay": 214,
-    "timeWeek": 710,
-    "timeMonth": 269,
+    "timeDay": 163,
+    "timeWeek": 635,
+    "timeMonth": 265,
     "timeYear": 160,
     "dailyMinutesDown": {
-      "2025-08-02": 0
+      "2025-08-02": 16
     }
   },
   {
@@ -56,7 +56,7 @@
     "timeMonth": 613,
     "timeYear": 777,
     "dailyMinutesDown": {
-      "2025-08-02": 1255,
+      "2025-08-02": 1270,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
