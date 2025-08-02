@@ -4,27 +4,29 @@
     "url": "https://invitree.id",
     "icon": "https://icons.duckduckgo.com/ip3/invitree.id.ico",
     "slug": "digital-invitation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2148,
+    "time": 2147,
     "timeDay": 1101,
     "timeWeek": 2056,
     "timeMonth": 2235,
     "timeYear": 2231,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-02": 0
+    }
   },
   {
     "name": "Dashboard",
     "url": "https://dashboard.invitree.id",
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.invitree.id.ico",
     "slug": "dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 710,
     "timeMonth": 269,
     "timeYear": 160,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-02": 0
+    }
   },
   {
     "name": "API",
@@ -41,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/asia-southeast2-invitree-id.cloudfunctions.net.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "86.73%",
+    "uptime": "86.68%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.17%",
+    "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "50.36%",
+    "uptimeYear": "50.13%",
     "time": 822,
     "timeDay": 539,
-    "timeWeek": 647,
+    "timeWeek": 466,
     "timeMonth": 613,
     "timeYear": 777,
     "dailyMinutesDown": {
-      "2025-08-02": 87,
+      "2025-08-02": 1255,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
