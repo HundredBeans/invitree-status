@@ -1,7 +1,7 @@
 url: https://asia-southeast2-invitree-id.cloudfunctions.net/api/ping
 status: down
-code: 503
-responseTime: 424
-lastUpdated: 2025-08-08T23:22:40.325Z
+code: 500
+responseTime: 577
+lastUpdated: 2025-08-09T23:22:13.540Z
 startTime: 2021-11-04T13:20:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
