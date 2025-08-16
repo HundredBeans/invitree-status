@@ -6,9 +6,9 @@
     "slug": "digital-invitation",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 2159,
     "timeDay": 3223,
@@ -16,7 +16,6 @@
     "timeMonth": 2335,
     "timeYear": 2264,
     "dailyMinutesDown": {
-      "2025-08-15": 11,
       "2025-08-07": 25,
       "2025-08-02": 16
     }
@@ -28,9 +27,9 @@
     "slug": "dashboard",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 154,
     "timeDay": 100,
@@ -38,7 +37,6 @@
     "timeMonth": 266,
     "timeYear": 160,
     "dailyMinutesDown": {
-      "2025-08-15": 11,
       "2025-08-07": 25,
       "2025-08-02": 16
     }
@@ -53,14 +51,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "46.54%",
+    "uptimeYear": "46.52%",
     "time": 810,
     "timeDay": 509,
     "timeWeek": 411,
     "timeMonth": 601,
     "timeYear": 768,
     "dailyMinutesDown": {
-      "2025-08-15": 1419,
+      "2025-08-16": 81,
+      "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
