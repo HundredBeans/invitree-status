@@ -1,7 +1,7 @@
 url: https://invitree.id
-status: up
-code: 200
-responseTime: 1300
-lastUpdated: 2025-10-19T23:18:59.353Z
+status: down
+code: 500
+responseTime: 3430
+lastUpdated: 2025-10-20T07:21:12.598Z
 startTime: 2021-11-03T13:23:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
