@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 2307,
-    "timeDay": 2969,
-    "timeWeek": 2405,
-    "timeMonth": 2600,
+    "timeDay": 3146,
+    "timeWeek": 2388,
+    "timeMonth": 2597,
     "timeYear": 2305,
     "dailyMinutesDown": {
       "2025-12-08": 97,
@@ -45,9 +45,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 172,
-    "timeDay": 111,
-    "timeWeek": 203,
-    "timeMonth": 310,
+    "timeDay": 155,
+    "timeWeek": 196,
+    "timeMonth": 312,
     "timeYear": 182,
     "dailyMinutesDown": {
       "2025-12-08": 97,
@@ -73,18 +73,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/asia-southeast2-invitree-id.cloudfunctions.net.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "75.76%",
+    "uptime": "75.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.08%",
-    "time": 686,
-    "timeDay": 331,
-    "timeWeek": 415,
-    "timeMonth": 506,
+    "time": 687,
+    "timeDay": 447,
+    "timeWeek": 412,
+    "timeMonth": 503,
     "timeYear": 550,
     "dailyMinutesDown": {
-      "2026-02-16": 120,
+      "2026-02-17": 118,
+      "2026-02-16": 1440,
       "2026-02-15": 1440,
       "2026-02-14": 1440,
       "2026-02-13": 1440,
@@ -447,8 +448,7 @@
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
-      "2025-02-18": 1440,
-      "2025-02-17": 1440
+      "2025-02-18": 1440
     }
   }
 ]
